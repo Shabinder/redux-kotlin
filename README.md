@@ -20,18 +20,18 @@ Full documentation at http://reduxkotlin.org.
 
 ## Mission Statement
 
-Provide a standard redux implementation for Kotlin. In doing so will foster a ecosystem of
+Provide a standard redux implementation for Kotlin. In doing so will foster an ecosystem of
 middleware, store
-enhancers, & dev tools. These core values will guide descisions for the project:
+enhancers, & dev tools. These core values will guide decisions for the project:
 
 * core redux-kotlin will be a minimal implementation that other libraries can build upon
 * modular development (follow example of https://github.com/reduxjs)
 * support for all platforms supported by Kotlin multiplatform (JVM, iOS, Native, JS, WASM)
 * developed in open and enable discussion for all interested parties via open channels (slack,
   github, etc. TBD)
-* not owned by a individual or company
+* not owned by an individual or a company
 
-Redux in Kotlin, and in mobile in particular, may differ a bit from javascript. Many have found the
+Redux in Kotlin, and mobile in particular, may differ a bit from javascript. Many have found the
 basic pattern useful
 on Android & iOS leading to tens of opensource redux libraries in Kotlin, Java, and Swift, yet an
 ecosystem has yet to
